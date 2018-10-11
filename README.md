@@ -1,2 +1,2 @@
 # Multi-arm-Bandit-using-egreedy-UCB-LinUCB
-Some simple exercises
+Some simple exercises, will be uploaded after 12/10/2018...
